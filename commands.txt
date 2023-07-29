@@ -5,3 +5,5 @@ git clone
 git remote -v
 git pull 
 git add file name
+git fetch
+git push
